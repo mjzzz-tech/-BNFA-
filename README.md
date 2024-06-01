@@ -13,3 +13,6 @@
 
 用于训练DCUnet的数据集
 链接：https://www.kaggle.com/datasets/mjz00011/dataset-bird/
+
+训练好的模型权重
+https://www.kaggle.com/datasets/mjz00011/test-model-b3/
