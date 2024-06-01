@@ -4,8 +4,12 @@
 
 # 数据说明
 
-所使用的鸟鸣数据由于数据过大无法上传至Github，如有需要可以通过下方链接下载：
+本实验的相关数据由于数据过大无法上传至Github，如有需要可以通过下方链接下载：
 
+天目山鸟鸣数据集
 链接：https://pan.baidu.com/s/1bgum_KcL2IYURU7Bra7mDg 
 提取码：brzi 
 --来自百度网盘超级会员V5的分享
+
+用于训练DCUnet的数据集
+链接：https://www.kaggle.com/datasets/mjz00011/dataset-bird/
